@@ -8,5 +8,6 @@ Example 1: Using Oracle Cloud Shell
 - fn -v deploy --app APP_NAME
 - echo -n '{"state":"Texas","price": 5.00}' | fn invoke APP_NAME statetaxcalc
 
+Reference: https://github.com/chipbaber/fn_Java_Function
 
 Example 2: 
